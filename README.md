@@ -1,4 +1,4 @@
-Beautiful Login Page That is bit smarter
+ ## Beautiful Login Page That is bit smarter
 
 <p align="center">
   <a href="/" target="_blank" rel="noreferrer"><img src="https://github.com/aayushx402/Linux-Background/blob/main/swappy-20240706-225518.png" alt="my banner"></a>

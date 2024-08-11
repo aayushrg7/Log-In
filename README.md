@@ -8,13 +8,13 @@
 
 <p align="center">
   <a href="https://github.com/aayushx402/Log-In/blob/main/script.js" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E" alt="JavaScript Badge">
+    <img src="https://img.shields.io/badge/JavaScript-Code-informational?style=for-the-badge&logo=JavaScript&color=F7DF1E&logoColor=black" alt="JavaScript Badge">
   </a>
   <a href="https://github.com/aayushx402/Log-In/blob/main/index.html" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26" alt="HTML5 Badge">
+    <img src="https://img.shields.io/badge/HTML5-Code-informational?style=for-the-badge&logo=HTML5&color=E34F26&logoColor=white" alt="HTML5 Badge">
   </a>
   <a href="https://github.com/aayushx402/Log-In/blob/main/style.css" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6" alt="CSS3 Badge">
+    <img src="https://img.shields.io/badge/CSS3-Style-informational?style=for-the-badge&logo=CSS3&color=1572B6&logoColor=white" alt="CSS3 Badge">
   </a>
 </p>
 

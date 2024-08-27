@@ -1,4 +1,4 @@
-## 🌟 Beautiful Login Page with a Smart Twist
+<strong>*🌟 Beautiful Login Page with a Smart Twist*</strong>
 
 <p align="center">
   <a href="/" target="_blank" rel="noreferrer">
@@ -17,6 +17,3 @@
     <img src="https://img.shields.io/badge/CSS3-Style-informational?style=for-the-badge&logo=CSS3&color=1572B6&logoColor=white" alt="CSS3 Badge">
   </a>
 </p>
-
-## 🎨 Credits & Inspiration
-- Idea and design by [@okunolaope98](#)
